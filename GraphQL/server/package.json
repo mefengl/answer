@@ -3,7 +3,7 @@
   "dependencies": {
     "@apollo/server": "^4.3.0",
     "graphql": "^16.6.0",
-    "mongoose": "^6.8.2",
+    "mongoose": "^6.11.3",
     "pocketbase": "^0.9.1"
   }
 }
